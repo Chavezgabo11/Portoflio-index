@@ -7,6 +7,8 @@
     <title>Gabriel Portfolio</title>
 </head>
 <body>
-    <h1>Gabriel Eugenio Chavez Portillo  Future Portfolio</h1>
+    <?php
+        echo 'Gabriel Eugenio Chavez Portillo - Future Portfolio';
+    ?>
 </body>
 </html>
